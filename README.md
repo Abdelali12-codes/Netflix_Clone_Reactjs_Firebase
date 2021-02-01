@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+# the discover the app click on the below url :
+https://react-firebase-auth-58e46.firebaseapp.com
 ## Available Scripts
 
 In the project directory, you can run:
