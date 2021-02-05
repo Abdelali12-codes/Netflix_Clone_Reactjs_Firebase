@@ -3,6 +3,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 https://react-firebase-auth-58e46.firebaseapp.com
 ## Available Scripts
 
+# The Login and SignUp Screen :
+ https://youtu.be/UM5Dza3Qs20
+ 
+# The Video Categories and Switch Accounts Screen :
+https://youtu.be/MEEVEAXPPYo
+
+# The Search Movies Screen :
+https://youtu.be/GgjLFRPbQfw
+
 In the project directory, you can run:
 
 ### `npm start`
